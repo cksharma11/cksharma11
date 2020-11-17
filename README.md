@@ -34,7 +34,7 @@
   📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>cksharma122@gmail.com</a>
 </p>
 
-- 👨‍💻 **Application Developerr**\
+- 👨‍💻 **Application Developer**\
 📆 2018 - Moment\
 📍 **ThoughtWorks** - Bangalore, India
 
