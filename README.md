@@ -1,54 +1,33 @@
+### Hi there I'm Chandan 👋
 
+- 🔭 I’m currently working at [ThoughtWorks](https://www.thoughtworks.com/en-in) as a Application Developer
+- 🌱 I’m currently learning about Kotlin with Spring,
+- 💬 Ask me about Functional Programming, JavaScript, React, Next.js, Node.js, Clojure, SpringBoot, Kotlin, Java
+- 📫 How to reach me: Drop me email at cksharma122@gmail.com
+- 😄 Pronouns: He/Him/His/Himself
+- 📷 You can find me on Instagram as [@itscksharma](https://www.instagram.com/itscksharma/)
+- ⚡ Fun fact: I'm an all round cricket player.
 
-<h1 align='center'>
-  Hi there 👋 I'm Chandan 👨‍💻
-</h1>
+<!--
+**Gurenax/Gurenax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align='center'>
-  An Application Dev from India
-</p>
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
+## GitHub Stats
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/chandan-kumar-114485119/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://cksharma11.medium.com/">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/imcksharma">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/itscksharma/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=cksharma11&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>cksharma122@gmail.com</a>
-</p>
-
-- 👨‍💻 **Application Developer**\
-📆 2018 - Moment\
-📍 **ThoughtWorks** - Bangalore, India
-
-- 👨‍💻 **Skills**
-<p align='center'>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-</p>
-
+<a href="https://codeglenn.com" style="width: 50%; max-width: 50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cksharma11&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="55%"/>
+</a>
+<a href="https://codeglenn.com" style="width: 50%; max-width: 50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksharma11&layout=compact&theme=tokyonight&langs_count=8&hide=abap" width="40%"/>
+</a>
