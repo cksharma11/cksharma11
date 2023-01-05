@@ -1,6 +1,6 @@
 ### Hi there I'm Chandan 👋
 
-- 🔭 I’m currently working as Senior Software Engineer.
+- 🔭 I’m currently working as Software Engineer.
 - 🌱 I’m currently learning about Kotlin with SpringBoot,
 - 💬 Ask me about Functional Programming, JavaScript, React, Next.js, Node.js, Clojure, SpringBoot, Kotlin, Java
 - 📫 How to reach me: Drop me email at cksharma122@gmail.com
