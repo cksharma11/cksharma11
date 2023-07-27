@@ -11,8 +11,5 @@
 ## GitHub Stats
 
 <a href="https://codeglenn.com" style="width: 50%; max-width: 50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cksharma11&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="55%"/>
-</a>
-<a href="https://codeglenn.com" style="width: 50%; max-width: 50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksharma11&layout=compact&theme=tokyonight&langs_count=8&hide=abap" width="40%"/>
 </a>
