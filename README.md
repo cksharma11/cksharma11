@@ -1,12 +1,8 @@
 # Hi there, I'm Chandan 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/cksharma11/)
-<<<<<<< HEAD
 [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@cksharma11)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/cksharma_11/)
-=======
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/ck.sharma__/)
->>>>>>> b2ab89eba59d7a8f156631d79ea619bcb4866211
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:cksharma122@gmail.com)
 
 ## 👨‍💻 About Me
@@ -45,14 +41,9 @@
 ## 📫 Get in Touch
 
 - 📧 Email: [cksharma122@gmail.com](mailto:cksharma122@gmail.com)
-<<<<<<< HEAD
 - 🔗 LinkedIn: [Chandan Kumar](https://www.linkedin.com/in/cksharma11/)
 - 📝 Medium: [@cksharma11](https://medium.com/@cksharma11)
 - 📷 Instagram: [@cksharma_11](https://www.instagram.com/cksharma_11/)
-=======
-- 🔗 LinkedIn: [Chandan Sharma](https://www.linkedin.com/in/cksharma11/)
-- 📷 Instagram: [@itscksharma](https://www.instagram.com/ck.sharma__/)
->>>>>>> b2ab89eba59d7a8f156631d79ea619bcb4866211
 
 ---
 <div align="center">
