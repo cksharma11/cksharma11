@@ -8,7 +8,7 @@ Senior Product / Software Engineer with 7+ years of experience building high-per
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:cksharma122@gmail.com)
 
 ### Live Projects 
-[![The Code Cracker]](https://cksharma11.github.io/thecodecracker/)
+[![The Code Cracker]](https://cksharma11.github.io/thecodecracker/)</br>
 [![CV Builder - Overpage Builder]](https://cksharma11.github.io/overpagebuilder/)
 
 ---
